@@ -11,4 +11,7 @@
   - Era broma no hay nada interesante de moemento
     - No te compensa entrar
        -Por favor no entres
-# Tareas por hacer       
+# Tareas por hacer  
+- [x] Aprobar
+- [ ] Acabar este Readme
+- [ ] Que sea bonito y con sentido
