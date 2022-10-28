@@ -15,3 +15,16 @@
 - [x] Aprobar
 - [ ] Acabar este Readme
 - [ ] Que sea bonito y con sentido
+<!--Esto no deberia salir-->
+# Lista compra:
+| Fruta     |   Verdura |
+|:----------|----------:|
+| Kiwi      |  Calabaza |
+| Sandia    | Espinacas |
+| Nectarina |    Tomate |
+
+<details><summary>No hagas CLICK</summary>
+<p>
+Te dije que no pulsaras no hay nada aquí
+</p>
+</details>
