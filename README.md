@@ -13,7 +13,7 @@
        -Por favor no entres
 # Tareas por hacer  
 - [x] Aprobar
-- [ ] Acabar este Readme
+- [x] Acabar este Readme
 - [ ] Que sea bonito y con sentido
 <!--Esto no deberia salir-->
 # Lista compra:
