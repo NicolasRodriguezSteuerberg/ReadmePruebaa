@@ -23,9 +23,10 @@
 | Sandia    | Espinacas |
 | Nectarina |    Tomate |
 
+![](https://t2.ea.ltmcdn.com/es/posts/4/9/9/curiosidades_del_tigre_25994_orig.jpg)
 <details><summary>No hagas CLICK</summary>
 <p>
 Te dije que no pulsaras no hay nada aquí
 </p>
 </details>
-![Imagen tigre](https://t2.ea.ltmcdn.com/es/posts/4/9/9/curiosidades_del_tigre_25994_orig.jpg)
+
